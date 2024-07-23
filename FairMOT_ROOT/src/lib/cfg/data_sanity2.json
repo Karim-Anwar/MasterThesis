@@ -1,0 +1,11 @@
+{
+    "root":"",
+    "train":
+    {
+        "fish_train":"./data/sanity2.train"
+    },
+    "test":
+    {
+        "fish_test":"./data/fish.val"
+    }
+}
